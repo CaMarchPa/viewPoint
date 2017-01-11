@@ -30,6 +30,7 @@ int main(int argc, char ** argv)
 {
     int test = 5;
     std::cout << " jusqu'ici, ça va :) ! 5/" << test << std::endl;
+	std::cout << "Hello" << std::endl;
     
     return EXIT_SUCCESS;
 }
