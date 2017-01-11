@@ -2,7 +2,7 @@
  **************************************************
  *  @author : CHOUENYIB ALI
  *  
- *  @last_edition : 17 - 11 -12
+ *  @last_edition : 11 - 01 - 17
  *
  *  @filename : lo3v.h
  *
